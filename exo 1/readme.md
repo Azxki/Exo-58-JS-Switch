@@ -1,12 +1,14 @@
 Consignes :
 
-Compléter le code du fichier exercice1.js pour créer une instruction switch qui affichera une boite d'alerte affichant
- "hello" si la variable fruits vaux "banana" et "welcome" si fruits vaux "apple"
+Compléter le code du fichier exercice1.js pour créer une instruction switch 
+qui affichera une boite d'alerte affichant
+ "hello" si la variable fruits vaut "banana" et "welcome" si fruits vaut "apple"
 
 
  Théorie :
 
- L'instruction switch permet d'éxécuter des blocs de code si une variable remplie une des conditions.
+ L'instruction switch permet d'éxécuter des blocs de code si une variable 
+ remplie une des conditions.
 
  on l'utilise de cette façon :
 
