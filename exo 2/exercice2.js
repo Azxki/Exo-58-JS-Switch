@@ -1,9 +1,16 @@
+let fruits = prompt("Favorite fruits is : banana or apple ?");
 
-(fruits) {
-    "Banana":
-    alert("Hello")
-    break;
-    "Apple":
-    alert("Welcome")
-    break;
+
+switch(fruits) {
+    case "banana" :
+        alert("Hello !");
+        break;
+
+    case "apple" :
+        alert("Welcome !");
+        break;
+
+    default:
+        alert("Aucun des deux !");
+        break;
 }
